@@ -1,0 +1,13 @@
+AHAB
+
+Description
+
+Ahab is a project on Motion Gaming . Done with OpenCV , You are able to control a Paddle with the motion of your Hand (Or any Motion , the web cam is able to detect ! ) . It's done in VC++ and is rather very primitive in Design. 
+
+
+NOTES
+You need OpenCV installed and you need to change the location of the OpenCV libraries in the VC++ project in order to run.
+
+
+ISSUES
+Not at all Optimized , so the code lags and finaly hangs if you have a slow system.
